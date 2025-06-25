@@ -26,7 +26,7 @@ export default function Home() {
         <div className="p-6 shadow-xl rounded-2xl border">
           <h2 className="text-2xl font-semibold mb-2">Contact</h2>
           <p>Email: <a href="mailto:william@velarview.org" className="text-blue-600 underline">william@velarview.org</a></p>
-          <p>Phone: <a href="tel:6366889231" className="text-blue-600 underline">(636) 688-9231</a></p>
+          <p>Phone: <a href="tel:6366889231" className="text-blue-600 underline">XXX-XX-XXXX</a></p>
         </div>
 
         <div className="text-center">
